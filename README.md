@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@liangyuanruo&theme=react" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@cssmil&theme=react" alt="Layout with last medium posts"  />
 </div>
 
 ###
@@ -63,8 +63,5 @@
 
 ###
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/cssmil/count.svg?"  />
-</div>
 
 ###
