@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm a Frontend develop from 🇵🇪</h2>
+<h2 align="left">Hi! I'm a Frontend develop 📱💻</h2>
 
 ###
 
