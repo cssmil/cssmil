@@ -42,6 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cssmil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cssmil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2&custom_title=Work" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=cssmil&theme=nord&column=-1&row=1&margin-w=60&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmil&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
