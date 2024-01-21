@@ -45,17 +45,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=cssmil&theme=nord&column=-1&row=1&margin-w=60&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@cssmil&theme=react" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmil&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
